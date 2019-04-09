@@ -1,0 +1,8 @@
+[hosts]
+10.0.0.1
+10.0.0.2
+192.168.0.199
+
+[hosts:vars]
+username=cisco
+ansible_port=22
